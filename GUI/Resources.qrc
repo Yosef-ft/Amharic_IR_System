@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Ir_logo.jpg</file>
+    <file>SideBar_Qt/icon/account-logout-64.ico</file>
+    <file>SideBar_Qt/icon/activity-feed-32.ico</file>
+    <file>SideBar_Qt/icon/activity-feed-48.ico</file>
+    <file>SideBar_Qt/icon/close-window-64.ico</file>
+    <file>SideBar_Qt/icon/dashboard-5-32.ico</file>
+    <file>SideBar_Qt/icon/dashboard-5-48.ico</file>
+    <file>SideBar_Qt/icon/group-32.ico</file>
+    <file>SideBar_Qt/icon/group-48.ico</file>
+    <file>SideBar_Qt/icon/home-4-32.ico</file>
+    <file>SideBar_Qt/icon/home-4-48.ico</file>
+    <file>SideBar_Qt/icon/Logo.png</file>
+    <file>SideBar_Qt/icon/menu-4-32.ico</file>
+    <file>SideBar_Qt/icon/product-32.ico</file>
+    <file>SideBar_Qt/icon/product-48.ico</file>
+    <file>SideBar_Qt/icon/search-13-48.ico</file>
+    <file>SideBar_Qt/icon/user-48.ico</file>
+  </qresource>
+</RCC>
