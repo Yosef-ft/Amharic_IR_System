@@ -28,8 +28,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ### Example
 - While searching for `ፍቅር እስከ መቃብር` the result will appear as the screenshots below and when you click the result in the GUI it will take you to the website.
-![Screenshot 2024-05-29 023535](https://github.com/Yosef-ft/Amharic_IR_System/assets/143919830/c09ff247-ef08-4657-9743-33d30c3c0e92)
-![Screenshot 2024-05-29 023834](https://github.com/Yosef-ft/Amharic_IR_System/assets/143919830/d1f48862-42f5-4b31-856e-eb30e35819ba)
+![image](https://github.com/Yosef-ft/Amharic_IR_System/assets/143919830/086419c2-e3a5-4f1e-b8ff-37aa9d89f32f)
 
 License
 This project is licensed under the MIT License.
