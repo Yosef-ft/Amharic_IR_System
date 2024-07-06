@@ -19,7 +19,6 @@ This project is an Amharic information retrieval system that consists of the fol
 - Search Engine GUI: Users can search for relevant documents using the search engine's graphical user interface. The query is linked to the relevant websites where the resources were found.
 ### Installation and Setup
 - Clone the repository: git clone https://github.com/your-username/amharic-information-retrieval.git
-- Install the required dependencies: pip install -r requirements.txt
 - Configure the necessary settings, such as the web crawling parameters and the file storage locations.
 - Run the web crawler, text processing, and information retrieval components.
 - Start the search engine GUI.
